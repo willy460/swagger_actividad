@@ -1,5 +1,10 @@
 # TASK API
 
+Docuementacion de la api: 
+[Documentacion con swagger .docx](https://github.com/user-attachments/files/23571962/Documentacion.con.swagger.docx)
+
+
+
 ## Overview
 The TASK API is a RESTful API designed to manage tasks, projects, and people. It provides endpoints for creating, reading, updating, and deleting records related to these entities.
 
